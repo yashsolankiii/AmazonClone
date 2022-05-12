@@ -12,7 +12,7 @@ function Navbaar() {
             <div className='nav_Searchbaar'>
                 <input type="text" name="" id="" />
                 <div class="search_icon">
-                    
+                    <span>Yash Solanki</span>
                 </div>
             </div>
                 
