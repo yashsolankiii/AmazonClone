@@ -27,4 +27,8 @@ Seed Users and Products
 Run this on browser: http://localhost:5000/api/seed
 It returns admin email and password and sample products
 
+Admin Login
+Run http://localhost:3000/signin
+Enter admin email and password and click signin
+
 <!-- postman invitation : https://app.getpostman.com/join-team?invite_code=3c3b58256171c52221ade2e8f6da9534 -->
